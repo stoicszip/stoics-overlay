@@ -1,6 +1,4 @@
 # **stoics-overlay**
-the stoic gentoo overlay
-
 This overlay contains ebuilds that I personally maintain or copied from other overlays with minor changes.
 
 ### **How to use this overlay?**
